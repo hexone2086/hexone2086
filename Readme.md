@@ -8,7 +8,7 @@
 
 ## star lists:
 
-[✨awsome software - 看起来不错的应用软件](https://github.com/stars/hexone2086/lists/awsome-software)
-[🔧tools - 便捷工具](https://github.com/stars/hexone2086/lists/tools)
-[📟Microcontroller and embed - 单片机及嵌入式](https://github.com/stars/hexone2086/lists/microcontroller-and-embed)
-[📔rule/guide - 规则及手册](https://github.com/stars/hexone2086/lists/rule-guide)
+* [✨awsome software - 看起来不错的应用软件](https://github.com/stars/hexone2086/lists/awsome-software)
+* [🔧tools - 便捷工具](https://github.com/stars/hexone2086/lists/tools)
+* [📟Microcontroller and embed - 单片机及嵌入式](https://github.com/stars/hexone2086/lists/microcontroller-and-embed)
+* [📔rule/guide - 规则及手册](https://github.com/stars/hexone2086/lists/rule-guide)
